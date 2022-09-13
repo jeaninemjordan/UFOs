@@ -64,7 +64,7 @@ The dataset utilized for this project only includes reported UFO sightings from 
 
 The highest number of sightings (34 out of 111 entries, ) occurred on January 1, 2010, representing 31% of the dataset. With a more comprehensive dataset containing data spanning over the course of multiple years, further analysis could be conducted to determine if this is a reoccuring phenomenon, or if it is exclusive to New Years of 2010. 
 
-#### Good times, tan lines and unidenfied objects.
+#### Good times, tan lines and unidenfied flying objects.
 
 The highest numbers of sightings occurred in coastal regions of the United States. The following states weighed in with the following metrics:
 * California: 30 sightings, 27% of the dataset.
