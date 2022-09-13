@@ -2,6 +2,8 @@
  
  ## An Interactive analysis within a searchable database of UFO sightings using Javascript in an HTML environment. 
  
+ IMG
+ 
  ### Project Overview
  
 The purpose of this project was intended to create a searchable database containing a dataset of UFO sightings using Javascript. The user is able to search the database using the following parameters: date, city, state, country, and shape. Using the provided search functions, the user is able to explore the dataset and analyze reported UFO sightings that occured in the US in January of 2010.   
@@ -22,8 +24,6 @@ The purpose of this project was intended to create a searchable database contain
 ### Results
 
 An interactive, searchable database was built that returned results to the user based on the parameters chosen. The webpage was designed using Javascript and HTML and styled with CSS and Bootstrap. Below are screenshots that display examples of the search functions operating as intended. 
-
-INSERT HOMEPAGE IMAGE
 
 In the upper left corner of the webpage, a button was created called "UFO Sightings" that allows the user to clear the data and refresh the page to conduct a new search. 
 
