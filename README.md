@@ -6,7 +6,7 @@
  
  ### Project Overview
  
-The purpose of this project was intended to create a searchable database containing a dataset of UFO sightings using Javascript. The user is able to search the database using the following parameters: date, city, state, country, and shape. Using the provided search functions, the user is able to explore the dataset and analyze reported UFO sightings that occured in the US in January of 2010.   
+The purpose of this project is intended to create a searchable database containing a dataset of UFO sightings using Javascript. The user is able to search the database using the following parameters: date, city, state, country, and shape. Using the provided search functions, the user is able to explore the dataset and analyze reported UFO sightings that occured in the US in January of 2010.   
 
 ### Resources
 
