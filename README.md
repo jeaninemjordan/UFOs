@@ -2,7 +2,7 @@
  
  ## An Interactive analysis within a searchable database of UFO sightings using Javascript in an HTML environment. 
  
- IMG
+!(static/images/gitreadmeufo.jpg)
  
  ### Project Overview
  
