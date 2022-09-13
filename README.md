@@ -2,6 +2,8 @@
  
  ## An Interactive analysis within a searchable database of UFO sightings using Javascript in an HTML environment. 
  
+![](static/images/gitreadmeufo.jpg)
+ 
  ### Project Overview
  
 The purpose of this project was intended to create a searchable database containing a dataset of UFO sightings using Javascript. The user is able to search the database using the following parameters: date, city, state, country, and shape. Using the provided search functions, the user is able to explore the dataset and analyze reported UFO sightings that occured in the US in January of 2010.   
@@ -23,35 +25,33 @@ The purpose of this project was intended to create a searchable database contain
 
 An interactive, searchable database was built that returned results to the user based on the parameters chosen. The webpage was designed using Javascript and HTML and styled with CSS and Bootstrap. Below are screenshots that display examples of the search functions operating as intended. 
 
-INSERT HOMEPAGE IMAGE
-
 In the upper left corner of the webpage, a button was created called "UFO Sightings" that allows the user to clear the data and refresh the page to conduct a new search. 
 
-UFO SIGHTINGS
+![](static/images/ufosightingsbutton.jpg)
 
 Search bars are provided, filled with sample data, that display the parameter options the user can choose from while conducting a search. 
 
-INSERT BLANK FILTER
+![](static/images/unfiltereddata.jpg)
 
 Below, the screenshot shows an example of the user's return when searching by date only. 
 
-DATE FILTER IMAGW
+![](static/images/datefilter.jpg)
 
 Below, the screenshot shows an example of the user's return when searching by city only. 
 
-CITY FILTER
+![](static/images/cityfilter.jpg)
 
 Below, the screenshot shows an example of the user's return when searching by state only.
 
-STATE FILTER
+![](static/images/statefilter.jpg)
 
 Below, the screenshot shows an example of the user's return when searching by country only.
 
-COUNTRY FILTER
+![](static/images/countryfilter.jpg)
 
 Below, the screenshot shows an example of the user's return when searching with multiple parameters selected. 
 
-MULTIPLE FILTER
+![](static/images/multiplefilter.jpg)
 
 ### Analysis of Data
 
@@ -68,7 +68,7 @@ The highest numbers of sightings occurred in coastal regions of the United State
 * Florida: 10 sightings, 9% of the dataset
 * Massachussetts: 7 sightings, 6.3% of the dataset. 
 
-To narrow this analaysis even further, El Cajon, CA reported the highest numbet of sightings (5), while the remaining cities in the dataset each reported three or less. The remaining states in the dataset reported four or less UFO sightings. Further analysis with a larger dataset could be conducted to determine whether coastal territories are more likely to experience reports of UFOs. 
+To narrow this analaysis even further, El Cajon, CA reported the highest numbet of sightings (5), while the remaining cities in the dataset each reported three or less. The remaining states in the dataset reported four or less UFO sightings. Further analysis with a larger dataset should be conducted on coastal territories and UFO sighting frequency to determine the geographical significance. 
 
 #### "Time flies over us, but leaves its shadow behind.” - Nathaniel Hawthorne
 
@@ -96,17 +96,8 @@ In the analysis of the UFO shapes reported in this dataset, 23.4% (26 reports) r
 * Cylinder:	1, .9.0%
 * Rectangle:	1, .9.0%
 
-
 ### Summary
 
-Overall, this analysis and webpage could be improved with a multitude of changes. To start, the provided dataset does not allow the user to conduct a comprehensive analysis outside of January, 2010 in the United States. If this dataset were to include live data listing current as well as global criteria, a much more thorough analysis could be conducted. Interactive heatmaps would be a great addition to this concept, allowing the user to visaulaize higher UFO phenomena by region. To expand on these suggestions, a latest news section that populates the most current UFO news articles would also be a relevent and insightful addition to this webpage. An archive tab listing historical UFO reports would add to the researchable depth of this page as well. A search function allowing the user to choose date ranges instead of specific dates would also be beneficial to the webpage's functionality, as well as allowing the user to search using non-case sensitive perameters (currently, the user must use case sensistive entries).   
+Overall, this analysis and webpage could be improved with a multitude of changes. To start, the provided dataset does not allow the user to conduct a comprehensive analysis outside of January, 2010 in the United States. If this dataset were to include live data listing both historical and current as well as global criteria, a much more thorough analysis could be conducted. Interactive heatmaps also searchable by time specifications would be a great addition to this concept, allowing the user to visaulaize UFO phenomena by region. To expand on these suggestions, a latest news section that populates the most current UFO news articles would also be a relevent and insightful addition to this webpage. An archive tab listing historical UFO reports would add to the researchable depth of this page as well. A search function allowing the user to choose date ranges instead of specific dates would also be beneficial to the webpage's functionality, as well as allowing the user to search using non-case sensitive perameters (currently, the user must use case sensistive entries). 
 
-
-
-
-
-
-
-
-
-
+### "We must ask ourselves...are they really a hoax? Are we truly alone? Or are we being lied to?" - Fox Mulder, the X-Files, Season 10: My Struggle
