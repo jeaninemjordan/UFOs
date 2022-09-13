@@ -27,7 +27,7 @@ An interactive, searchable database was built that returned results to the user 
 
 In the upper left corner of the webpage, a button was created called "UFO Sightings" that allows the user to clear the data and refresh the page to conduct a new search. 
 
-![](static/images/ufosightingsbutton.jpg)
+![](static/images/sightingsbutton.jpg)
 
 Search bars are provided, filled with sample data, that display the parameter options the user can choose from while conducting a search. 
 
