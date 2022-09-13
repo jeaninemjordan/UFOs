@@ -71,11 +71,11 @@ The highest numbers of sightings occurred in coastal regions of the United State
 * Florida: 10 sightings, 9% of the dataset
 * Massachussetts: 7 sightings, 6.3% of the dataset. 
 
-To narrow this analaysis even further, El Cajon, CA reported the highest numbet of sightings (5), while the remaining cities in the dataset each reported three or less. The remaining states in the dataset reported four or less UFO sightings. Further analysis with a larger dataset should be conducted on coastal territories and UFO sighting frequency to determine the geographical significance. 
+The remaining states in the dataset reported four or less UFO sightings. To narrow this analaysis even further, El Cajon, CA reported the highest numbet of sightings (5), while the remaining cities in the dataset each reported three or less. Further analysis with a larger dataset should be conducted on coastal territories and UFO sighting frequency to determine the geographical significance. 
 
 #### "Time flies over us, but leaves its shadow behind.” - Nathaniel Hawthorne
 
-With reportings ranging from one second to several hours (and one outlier report of three weeks) long, the highest number of reported UFO sightings were between 1 and 5 minutes in length (Note that 7.2% of the dataset did not include the durations of the sightings), weighing in at 30% of the dataset (33 reportings). 
+With reportings ranging from one second to several hours (and one outlier report of three weeks) long, the highest number of reported UFO sightings were between one and five minutes in length (Note that 7.2% of the dataset did not include the durations of the sightings), weighing in at 30% of the dataset (33 reportings). 
 
 #### “Mankind was not absolutely alone among the conscious things of earth, for shapes came out of the dark to visit the faithful few.” - H.P. Lovecraft
 
