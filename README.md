@@ -1,6 +1,6 @@
 # UFOs
  
- ## An Interactive analysis within a searchable database of UFO sightings using Javascript in an HTML environment. 
+ ## An interactive analysis within a searchable database of UFO sightings using Javascript in an HTML environment. 
  
 ![](static/images/gitreadmeufo.jpg)
  
@@ -26,7 +26,6 @@ The purpose of this project is intended to create a searchable database containi
 An interactive, searchable database was built that returned results to the user based on the parameters chosen. The webpage was designed using Javascript and HTML and styled with CSS and Bootstrap. Below are screenshots that display examples of the search functions operating as intended. 
 
 ![](static/images/Homepage.jpg)
-
 
 In the upper left corner of the webpage, a button was created called "UFO Sightings" that allows the user to clear the data and refresh the page to conduct a new search. 
 
@@ -69,7 +68,7 @@ The highest number of sightings (34 out of 111 entries, ) occurred on January 1,
 The highest numbers of sightings occurred in coastal regions of the United States. The following states weighed in with the following metrics:
 * California: 30 sightings, 27% of the dataset.
 * Florida: 10 sightings, 9% of the dataset
-* Massachussetts: 7 sightings, 6.3% of the dataset. 
+* Massachusetts: 7 sightings, 6.3% of the dataset. 
 
 The remaining states in the dataset reported four or less UFO sightings. To narrow this analaysis even further, El Cajon, CA reported the highest numbet of sightings (5), while the remaining cities in the dataset each reported three or less. Further analysis with a larger dataset should be conducted on coastal territories and UFO sighting frequency to determine the geographical significance. 
 
@@ -101,6 +100,6 @@ In the analysis of the UFO shapes reported in this dataset, 23.4% (26 reports) r
 
 ### Summary
 
-Overall, this analysis and webpage could be improved with a multitude of changes. To start, the provided dataset does not allow the user to conduct a comprehensive analysis outside of January, 2010 in the United States. If this dataset were to include live data listing both historical and current as well as global criteria, a much more thorough analysis could be conducted. Interactive heatmaps also searchable by time specifications would be a great addition to this concept, allowing the user to visaulaize UFO phenomena by region as well as by time period. To expand on these suggestions, a latest news section that populates the most current UFO news articles would also be a relevent and insightful addition to this webpage. An archive tab listing historical UFO reports would add to the researchable depth of this page as well. A search function allowing the user to choose date ranges instead of specific dates would also be beneficial to the webpage's functionality, as would allowing the user to search using non-case sensitive parameters (currently, the user must use case sensistive entries). 
+Overall, this analysis and webpage could be improved with a multitude of changes. To start, the provided dataset does not allow the user to conduct a comprehensive analysis outside of January, 2010 in the United States. If this dataset were to include live data listing both historical and current as well as global criteria, a much more thorough analysis could be conducted. Interactive heatmaps also searchable by time specifications would be a great addition to this concept, allowing the user to visualize UFO phenomena by region as well as by time period. To expand on these suggestions, a "latest news" section that populates the most current UFO news articles would also be a relevent and insightful addition to this webpage. An archive tab listing historical UFO articles would add to the researchable depth of this page as well. A search function allowing the user to choose date ranges instead of specific dates would also be beneficial to the webpage's functionality, as would allowing the user to search using non-case sensitive parameters (currently, the user must use case sensistive entries). 
 
 ### "We must ask ourselves...are they really a hoax? Are we truly alone? Or are we being lied to?" - Fox Mulder, the X-Files, Season 10: My Struggle
