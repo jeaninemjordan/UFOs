@@ -32,7 +32,7 @@ In the upper left corner of the webpage, a button was created called "UFO Sighti
 
 ![](static/images/sightingsbutton.jpg)
 
-Search bars are provided, filled with sample data, that display the parameter options the user can choose from while conducting a search. 
+Search bars are provided, filled with sample data, that display the parameter options the user can choose from while conducting a search. Below is a screenshot of the webpage without any search parameters entered. 
 
 ![](static/images/unfiltereddata.jpg)
 
